@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  web-server-apache:
+  - apiVersion: v2
+    appVersion: 2.4.58
+    created: "2024-03-06T18:50:09.86502637Z"
+    description: A Helm chart for Kubernetes
+    digest: e7d224034da690f7cdab914a1176a8668fa2f9e61dc4f3ac9119e0a4bf1f45ff
+    icon: https://djeqr6to3dedg.cloudfront.net/repo-logos/library/httpd/live/logo.png
+    name: web-server-apache
+    type: application
+    urls:
+    - https://github.com/devopsphin/helm-charts/releases/download/web-server-apache-0.1.0/web-server-apache-0.1.0.tgz
+    version: 0.1.0
+  web-server-nginx:
+  - apiVersion: v2
+    appVersion: 1.24.0
+    created: "2024-03-06T18:50:09.956803592Z"
+    description: A Helm chart for Kubernetes
+    digest: b3c087d8100ca91a04e5f35b3d5634101664efbb95ec89fba6947ad03fa724ec
+    icon: https://djeqr6to3dedg.cloudfront.net/repo-logos/library/nginx/live/logo.png
+    name: web-server-nginx
+    type: application
+    urls:
+    - https://github.com/devopsphin/helm-charts/releases/download/web-server-nginx-0.1.0/web-server-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-06T18:50:09.956809653Z"
